@@ -1,0 +1,26 @@
+.container{
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    font-size: 30px;
+    margin-top: 15%;
+    border-radius: 10px;
+}
+/* inner-container span{
+    font-size: 1.45rem;
+    font-weight: 700;
+} */
+
+.inner-container span:hover{
+    background-color: rgb(123, 123, 200);
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container:hover{
+    background-color: rgb(123, 123, 200);
+}
+
